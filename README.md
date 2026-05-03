@@ -10,7 +10,8 @@
 |-------|---------|
 | Title | Ya Habibi Ya |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 23, 2026 |
+| Lyric Writing Date | April 20, 2026 |
+| Song Page | [Open Song Page](https://imabusayed.github.io/ya-habibi-ya/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
@@ -18,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي يا نور عيني
+> في غيابك يبكي قلبي
+> أنت الروح وأنت حنيني
+> تعالي وعانقيني في دربي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
