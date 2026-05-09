@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ya Habibi Ya
+
+This log tracks the cryptographic history and versioning for the song **Ya Habibi Ya** (ya-habibi-ya).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T12:10:06.958386 | `v1` | `8796d13613424eae8588cc7bf5d0fff4a01241a0344fd057d0d164500bfbf2b3` | `099d1f3803352d68febb614590bd7f8db7369f127b3829a96a692416550663c1` | `2026-05-09_ya-habibi-ya-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
